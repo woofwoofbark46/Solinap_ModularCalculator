@@ -1,10 +1,10 @@
 # Solinap_ModularCalculator
 
-#This modular calculator lets you divide, subtract, add, and multiply 2 numerical inputs.
+This modular calculator lets you divide, subtract, add, and multiply 2 numerical inputs.
 
-#It features pressing 1(Addition), 2(Subtraction), 3(Multiplication), 4(Division), and 5 to Exit. 
+It features pressing 1(Addition), 2(Subtraction), 3(Multiplication), 4(Division), and 5 to Exit. 
 
-#Finished code below!:
+Finished code below!:
 
 # VERSION 1, Modular Calculator
 #Input num1, num2
