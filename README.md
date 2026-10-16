@@ -4,9 +4,9 @@ This modular calculator lets you divide, subtract, add, and multiply 2 numerical
 
 It features pressing 1(Addition), 2(Subtraction), 3(Multiplication), 4(Division), and 5 to Exit. 
 
-Finished code below!:
+Finished code below(There are no changes, so this is now the Version 2 of my code)!
 
-# VERSION 1, Modular Calculator
+# VERSION 2, Modular Calculator
 #Input num1, num2
 
 num1 = float(input("Enter the first number: "))
